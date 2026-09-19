@@ -143,20 +143,32 @@ Building conversational AI systems that work in production: chat, voice and mess
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirth-2510&bg_color=04140f&color=a7f3d0&line=22d3ee&point=ecfeff&area=true&area_color=0f766e&hide_border=true&title_color=22d3ee" width="98%" alt="Contribution activity graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tirth-2510&show_icons=true&count_private=true&bg_color=04140f&title_color=22d3ee&text_color=d1fae5&icon_color=34d399&border_color=134e4a&border_radius=10"
+    height="165"
+    alt="GitHub stats"
+  />
 
-<br/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth-2510&layout=compact&langs_count=6&bg_color=04140f&title_color=22d3ee&text_color=d1fae5&border_color=134e4a&border_radius=10"
+    height="165"
+    alt="Top languages"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tirth-2510&show_icons=true&count_private=true&bg_color=04140f&title_color=22d3ee&text_color=d1fae5&icon_color=34d399&border_color=134e4a&border_radius=10" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirth-2510&layout=compact&langs_count=6&bg_color=04140f&title_color=22d3ee&text_color=d1fae5&border_color=134e4a&border_radius=10" alt="Top languages" />
+  <br />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=tirth-2510&background=04140f&border=134e4a&stroke=134e4a&ring=22d3ee&fire=34d399&currStreakNum=ecfeff&sideNums=ecfeff&currStreakLabel=22d3ee&sideLabels=a7f3d0&dates=6ee7b7&border_radius=10" alt="GitHub streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=tirth-2510&background=04140f&border=134e4a&stroke=134e4a&ring=22d3ee&fire=34d399&currStreakNum=ecfeff&sideNums=ecfeff&currStreakLabel=22d3ee&sideLabels=a7f3d0&dates=6ee7b7&border_radius=10"
+    alt="GitHub streak"
+  />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:22d3ee&height=2" width="100%" alt="" />
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:22d3ee&height=2"
+  width="100%"
+  alt=""
+/>
 
 <h2 align="center">Get in Touch</h2>
 
